@@ -56,3 +56,9 @@ function priceofPie()
     document.write("<br>");
     x--;
     document.write(x);}
+
+
+
+    for (let i = 0; i < 50; i++) {
+        console.log("Clap!");
+    }
